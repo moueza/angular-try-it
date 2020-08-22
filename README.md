@@ -1,2 +1,2 @@
 # angular-try-it
-*f
+From https://angular.io/start#part-1-getting-started-with-a-basic-angular-app
